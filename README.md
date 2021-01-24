@@ -1,1 +1,1 @@
-# python_training
+## CS 130R: Programming in Python
